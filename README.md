@@ -1,3 +1,6 @@
+It is what it looks like? SURE IT IS!
+A bot fully written by AI!
+
 🤖 Bot Commands:
 
 1. /creategroup <groupname> - Create a new group.
@@ -13,3 +16,13 @@
 - /addtogroup mygroup @username
 - /deletefromgroup mygroup @username
 - /deletegroup mygroup
+
+QnA
+-Q: Why?
+-A: cuz I can, bithez
+
+-Q: 4 wut?
+-A: FTGJ
+
+-Q: r' u proud of dat shit?
+-A: Sure thing, its turns me from a no-salary developer to no-code vibe-developer.
